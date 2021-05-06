@@ -1,13 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="CalculatorTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2021-05-06T06:29:50" hostname="DESKTOP-2GTBTVU" time="0.025">
+<testsuite name="CalculatorTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2021-05-06T07:50:39" hostname="DESKTOP-2GTBTVU" time="0.032">
   <properties/>
-  <testcase name="subtract()" classname="CalculatorTest" time="0.023"/>
-  <testcase name="add()" classname="CalculatorTest" time="0.001"/>
+  <testcase name="subtract()" classname="CalculatorTest" time="0.025"/>
+  <testcase name="divide()" classname="CalculatorTest" time="0.001"/>
+  <testcase name="add()" classname="CalculatorTest" time="0.002"/>
+  <testcase name="multiply()" classname="CalculatorTest" time="0.001"/>
   <system-out><![CDATA[before
 subtract
 teardown
 before
+divide
+teardown
+before
 add
+teardown
+before
+multiply
 teardown
 ]]></system-out>
   <system-err><![CDATA[]]></system-err>
