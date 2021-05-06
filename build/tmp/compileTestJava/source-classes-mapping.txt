@@ -1,2 +1,6 @@
+SplitTest.java
+ SplitTest
 CalculatorTest.java
  CalculatorTest
+StringCalculatorTest.java
+ StringCalculatorTest

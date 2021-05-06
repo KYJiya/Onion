@@ -57,6 +57,17 @@ public class CalculatorTest {
         System.out.println("subtract");
     }
 
+    @Test
+    public void multiply() {
+        assertEquals(18, cal.multiply(6, 3));
+        System.out.println("multiply");
+    }
+
+    @Test
+    public void divide() {
+        assertEquals(2, cal.divide(6, 3));
+        System.out.println("divide");
+    }
     @AfterEach
     public void teardown() {
         System.out.println("teardown");

@@ -4,6 +4,15 @@ subtract
 
 teardown
 before
-add
+divide
 
+teardown
+before
+add
+
+teardown
+before
+
+multiply
+
 teardown
