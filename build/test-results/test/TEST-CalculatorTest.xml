@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CalculatorTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2021-05-06T06:29:50" hostname="DESKTOP-2GTBTVU" time="0.025">
+  <properties/>
+  <testcase name="subtract()" classname="CalculatorTest" time="0.023"/>
+  <testcase name="add()" classname="CalculatorTest" time="0.001"/>
+  <system-out><![CDATA[before
+subtract
+teardown
+before
+add
+teardown
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
